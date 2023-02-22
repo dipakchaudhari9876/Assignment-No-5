@@ -1,0 +1,7 @@
+POST http://localhost:8081/welcome
+
+###
+POST http://localhost:8081/contact
+
+###
+POST http://localhost:8081/temp
